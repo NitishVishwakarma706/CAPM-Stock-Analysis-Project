@@ -1039,7 +1039,6 @@ Data Visualization
 Statistical Analysis
 Dashboard Development
 ```
-
 ---
 
 # ⭐ Project Summary
@@ -1050,4 +1049,4 @@ The project starts with historical market data and progressively transforms it i
 
 The ultimate purpose of the project is to demonstrate how **Data Science can be applied to financial research**, transforming raw market and company data into reproducible, interpretable, and visually accessible analytical insights.
 
-> **CAPM-Stock-Analysis-Project = Data Engineering + Data Science + Statistics + Financial Analytics + Visualization + Valuation**
+> **CAPM-Stock-Analysis-Project = Data Engineering + Data Science + Statistics + Financial Analytics + Visualization + Valuation** 
